@@ -1,4 +1,4 @@
-<h2 align="left">💫 About Me:</h2>
+<h2 align="left">💫 About Me:</h2> [🎵](https://www.youtube.com/watch?v=BAr-KBVnhfY)
 
 <p align="left">
   👋🏽 Hey there! I'm <b>Mihit Singasane</b><br>
@@ -57,6 +57,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" />
 </p>
 
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mihit10/Mihit10/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mihit10/Mihit10/output/pacman-contribution-graph.svg">
@@ -64,6 +66,7 @@
 </picture>
 
 ---
+<br />
 
 <h2 align="center">📊 GitHub Stats:</h2>
 <div align="center">
