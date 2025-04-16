@@ -76,9 +76,10 @@
 </div>
 
 ---
-<h2 align="center">🎧 Now Playing on Spotify</h2>
+<!-- <h2 align="center">🎧 Now Playing on Spotify</h2>
 <div align="center">
   <a href="https://open.spotify.com/user/M1h1t" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=315wcl55zurcuonitahzoglcdc64&unique=true" alt="Spotify Now Playing" />
   </a>
-</div>
+</div> -->
+
