@@ -1,4 +1,4 @@
-## 💫About Me [🎵](https://www.youtube.com/watch?v=BAr-KBVnhfY)
+## 💫About Me
 
 <p align="left">
   👋🏽 Hey there! I'm <b>Mihit Singasane</b><br>
