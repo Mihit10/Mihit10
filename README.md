@@ -1,4 +1,4 @@
-<h2 align="left">💫 About Me:</h2> [🎵](https://www.youtube.com/watch?v=BAr-KBVnhfY)
+## 💫About Me [🎵](https://www.youtube.com/watch?v=BAr-KBVnhfY)
 
 <p align="left">
   👋🏽 Hey there! I'm <b>Mihit Singasane</b><br>
