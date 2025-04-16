@@ -70,8 +70,8 @@
 
 <h2 align="center">📊 GitHub Stats:</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mihit10&show_icons=true&theme=dracula&rank_icon=github&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mihit10&layout=compact&theme=dracula&size_weight=0.4&count_weight=0.5" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mihit10&show_icons=true&theme=dracula&rank_icon=github&count_private=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mihit10&layout=compact&theme=dracula&size_weight=0.4&count_weight=0.5" height="200" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mihit10&theme=react-dark&area=true&radius=16" height="300" />
 </div>
 
